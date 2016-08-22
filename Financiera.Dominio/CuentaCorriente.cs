@@ -7,13 +7,13 @@ namespace Financiera.Dominio
 {
 
     /// <summary>
-    /// dominio del mundoooooo!!!
+    /// dominio del mundoooooo!!!asdasdasdasdasd
     /// </summary>
     public class CuentaCorriente
     {
 
         /// <summary>
-        /// Propiedad de cuenta corriente..........
+        /// Propiedad de cuenta corriente..........asdasda
         /// 
         /// </summary>
         public int FechaApertura
@@ -30,6 +30,7 @@ namespace Financiera.Dominio
 
         public int NumeroCuenta
         {
+
             get
             {
                 throw new System.NotImplementedException();
@@ -42,6 +43,7 @@ namespace Financiera.Dominio
 
         public int Saldo
         {
+
             get
             {
                 throw new System.NotImplementedException();
@@ -66,6 +68,7 @@ namespace Financiera.Dominio
 
         public Cliente Cliente
         {
+            
             get
             {
                 throw new System.NotImplementedException();

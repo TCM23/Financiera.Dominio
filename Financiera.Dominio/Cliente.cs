@@ -5,6 +5,9 @@ using System.Text;
 
 namespace Financiera.Dominio
 {
+    /// <summary>
+    /// sdfsdfsdfsdfsdf
+    /// </summary>
     public class Cliente
     {
         public int CodigoCliente { get; set; }
