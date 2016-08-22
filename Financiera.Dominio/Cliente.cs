@@ -17,6 +17,7 @@ namespace Financiera.Dominio
             {
                 NombreCliente = as_nombre,
                 TipoCliente = aby_tipo
+                
             };
         }
 

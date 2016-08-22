@@ -5,8 +5,17 @@ using System.Text;
 
 namespace Financiera.Dominio
 {
+
+    /// <summary>
+    /// dominio del mundoooooo!!!
+    /// </summary>
     public class CuentaCorriente
     {
+
+        /// <summary>
+        /// Propiedad de cuenta corriente..........
+        /// 
+        /// </summary>
         public int FechaApertura
         {
             get
